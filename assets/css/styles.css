@@ -442,7 +442,10 @@ img{
   margin-top: -1.5rem;
   font-size: 0.84rem;
 }
-
+.paper__number{
+  margin-top: -1.5rem;
+  font-size: 0.94rem;
+}
 .ulle{
   margin-top: -1rem;
   padding-left: 1rem;
