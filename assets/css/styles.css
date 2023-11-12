@@ -457,8 +457,9 @@ img{
 }
 
 .paper__author{
-  color: #707080;
   margin-top: -1.5rem;
+  font-size: 0.84rem;
+  color: #707080;
 }
 .sf{
   margin-top: 0;
