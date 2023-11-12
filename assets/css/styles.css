@@ -19,6 +19,7 @@
   --h2-font-size: 1.25rem;
   --h3-font-size: 1rem;
   --normal-font-size: .938rem;
+  --normal-small-font-size: .904rem;
   --small-font-size: .875rem;
   --smaller-font-size: .813rem;
 
@@ -416,6 +417,11 @@ img{
 
 .education__title{
   font-size: var(--h3-font-size);
+}
+
+.education__major{
+  font-size: var(--normal-small-font-size);
+  color: var(--text-color);
 }
 
 .education__studies{
