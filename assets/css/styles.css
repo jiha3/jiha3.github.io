@@ -432,6 +432,11 @@ img{
   font-size: 0.84rem;
 }
 
+.paper__company{
+  margin-top: -1.5rem;
+  font-size: 0.84rem;
+}
+
 .ulle{
   margin-top: -1rem;
   padding-left: 1rem;
@@ -441,6 +446,14 @@ img{
   margin-top: -1.5rem;
 }
 
+.paper__title{
+  margin-top: -1.5rem;
+}
+
+.paper__author{
+  color: #707080;
+  margin-top: -1.5rem;
+}
 .sf{
   margin-top: 0;
 }
