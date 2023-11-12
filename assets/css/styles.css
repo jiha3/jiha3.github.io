@@ -397,7 +397,7 @@ img{
   position: relative;
   display: block;
   width: 16px;
-  height: 16px;
+  height: 18px;
   background-color: var(--text-color-light);
   border-radius: 50%;
   margin-top: 0.25rem;
@@ -444,7 +444,7 @@ img{
 }
 .paper__number{
   margin-top: -1.5rem;
-  font-size: 0.94rem;
+  font-size: 0.84rem;
 }
 .ulle{
   margin-top: -1rem;
